@@ -1,7 +1,7 @@
 # Ex03 Time Table
 
 ## DATE
-   14/09/2023
+  14/09/2023
 
 ## AIM
 To write a html webpage page to display your slot timetable.
